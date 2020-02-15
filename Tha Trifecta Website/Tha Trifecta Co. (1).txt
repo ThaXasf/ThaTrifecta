@@ -1,0 +1,16 @@
+﻿Website idea    
+Make a website based off of a pseudo company called “Tha Trifecta Co.”(TTC). TTC is a company based out of New York, New York with its headquarters in Tribeca. This company allows the customer to join code camps, fix computer hardware and software, sell technology, and use the gym. The gym is divided into crossfit, weight room, kickboxing and jiu jitsu, we provide showers and locker rooms. In addition we have calm areas where visitors can use our quiet meditation rooms. Throughout the facilities there are positive quotes hidden and exposed to give an extra dose of positive vibes for visitors. 
+
+
+The Goal:
+-Build a website that displays accurate and constantly updated information 
+- Visually aesthetic 
+- Include pictures of the facility, visitors expressing their happiness with the facilities and  show a sense of community 
+- History of the company 
+
+
+Website Tab Ideas:
+* Slogan : “Give us a Tri”
+* Trifecta in Tribeca
+* Tha Trifecta works on your mind, body and soul
+* The perfect balance
